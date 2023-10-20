@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="subtractButton" type="id">20</item>
+    <item name="multiplyButton" type="id">20</item>
+    <item name="divideButton" type="id">20</item>
+</resources>
